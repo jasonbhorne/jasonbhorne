@@ -21,12 +21,13 @@ OCR-based digitization of paper forms into structured data. Automated Excel dash
 
 | Repository | What It Does |
 |:-----------|:-------------|
-| [school-data-dashboards](https://github.com/jasonbhorne/school-data-dashboards) | Full pipeline: scanned PDFs to OCR to cleaned data to Excel dashboards with KPIs and charts |
-| [school-district-automation](https://github.com/jasonbhorne/school-district-automation) | Task coordinator with dependency-aware execution, file organizers, and launchd integration |
-| [tn-school-letter-grades](https://github.com/jasonbhorne/tn-school-letter-grades) | Random Forest, Gradient Boosting, and SVM analysis of what drives TN school performance ratings |
+| [enrollment-pipeline](https://github.com/jasonbhorne/enrollment-pipeline) | Daily SIS-to-dashboard pipeline that recovers 100+ hours/year of manual enrollment reporting |
+| [school-data-dashboards](https://github.com/jasonbhorne/school-data-dashboards) | Scanned paper forms to structured data to Excel dashboards, eliminating hours of manual entry per batch |
+| [school-district-automation](https://github.com/jasonbhorne/school-district-automation) | Task orchestrator with dependency graphs, retry logic, and health checks for unattended daily operations |
+| [tn-school-letter-grades](https://github.com/jasonbhorne/tn-school-letter-grades) | ML analysis of what drives TN school performance ratings using Random Forest, GBM, and SVM |
 | [ai-in-education](https://github.com/jasonbhorne/ai-in-education) | Governance frameworks, use cases, and implementation guides for K-12 AI adoption |
-| [school-calendar-tools](https://github.com/jasonbhorne/school-calendar-tools) | XML-level Excel manipulation to shift school calendars without breaking formatting |
-| [ga4-reporting](https://github.com/jasonbhorne/ga4-reporting) | GA4 Data API template with month-over-month comparison reports |
+| [school-calendar-tools](https://github.com/jasonbhorne/school-calendar-tools) | Reduces calendar production from days to seconds via XML-level Excel manipulation |
+| [ga4-reporting](https://github.com/jasonbhorne/ga4-reporting) | GA4 Data API template replacing manual dashboard clicks with a single command |
 | [tnpublicschoolstuff](https://github.com/jasonbhorne/tnpublicschoolstuff) | TCAP, EOC, and AMO analysis notebooks for Tennessee education data |
 
 ## Tools and Technologies
