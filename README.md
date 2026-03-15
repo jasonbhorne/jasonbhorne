@@ -18,7 +18,7 @@ Task orchestration with dependency graphs, retry logic, and watchdog timers. Fil
 OCR-based digitization of paper forms into structured data. Automated Excel dashboard generation with year-over-year comparisons. Google Analytics reporting for web properties.
 
 **AI-Powered Workflows**
-Claude Code skills that automate document review, deep research with source verification, legislative bill tracking, and financial analysis. 20 published skills combining LLM capabilities with Python data processing.
+Claude Code skills that automate document review, deep research with source verification, legislative bill tracking, instructional design, data pipeline architecture, and financial analysis. 26 published skills combining LLM capabilities with Python data processing.
 
 ## Featured Projects
 
@@ -29,14 +29,14 @@ Claude Code skills that automate document review, deep research with source veri
 | [school-district-automation](https://github.com/jasonbhorne/school-district-automation) | Task orchestrator with dependency graphs, retry logic, and health checks for unattended daily operations |
 | [tn-school-letter-grades](https://github.com/jasonbhorne/tn-school-letter-grades) | ML analysis of what drives TN school performance ratings using Random Forest, GBM, and SVM |
 | [ai-in-education](https://github.com/jasonbhorne/ai-in-education) | Governance frameworks, use cases, and implementation guides for K-12 AI adoption |
-| [claude-code-skills](https://github.com/jasonbhorne/claude-code-skills) | 20 reusable Claude Code skills for document review, deep research, legislative tracking, financial analysis, and more |
+| [claude-code-skills](https://github.com/jasonbhorne/claude-code-skills) | 26 reusable Claude Code skills for document generation, research, data pipelines, instructional design, project orchestration, and more |
 | [school-calendar-tools](https://github.com/jasonbhorne/school-calendar-tools) | Reduces calendar production from days to seconds via XML-level Excel manipulation |
 | [ga4-reporting](https://github.com/jasonbhorne/ga4-reporting) | GA4 Data API template replacing manual dashboard clicks with a single command |
 | [tnpublicschoolstuff](https://github.com/jasonbhorne/tnpublicschoolstuff) | TCAP, EOC, and AMO analysis notebooks for Tennessee education data |
 
 ## Tools and Technologies
 
-Python, SQL, pandas, scikit-learn, openpyxl, python-docx, lxml, Claude Code, Playwright, zsh, macOS automation, Google Analytics Data API, PowerSchool, Microsoft 365
+Python, SQL, pandas, scikit-learn, openpyxl, python-docx, lxml, Claude Code, Google Workspace CLI, Playwright, zsh, macOS automation, Google Analytics Data API, PowerSchool, Microsoft 365
 
 ## Background
 
